@@ -15,9 +15,9 @@ The dataset consists of the information obtained from the past shopping behavior
 
  
 
-- <h4> # master_id: Unique client number <h4>
+- <h4>  master_id: Unique client number <h4>
 
-- <h4> # order_channel:  Which channel of the shopping platform is used (Android, ios, Desktop, Mobile) <h4>
+- <h4>  order_channel:  Which channel of the shopping platform is used (Android, ios, Desktop, Mobile) <h4>
 
 - <h4> last_order_channel: The channel where the last purchase was made <h4>
  
