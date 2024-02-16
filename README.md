@@ -13,6 +13,8 @@ Customers of FLO, an online shoe store.It wants to divide it into segments and d
 The dataset consists of the information obtained from the past shopping behaviors of customers who made their last purchases from Flo as OmniChannel (both online and offline shopper) in the years 2020-2021.
 
 
+ 
+ 
 # master_id: Unique client number
 
 # order_channel:  Which channel of the shopping platform is used (Android, ios, Desktop, Mobile)
